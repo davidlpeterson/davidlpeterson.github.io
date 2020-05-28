@@ -2,7 +2,7 @@
 title: "Founders hiding in plain sight"
 layout: post
 date: 2020-05-27 09:54
-image: /assets/images/foundershiding.jpg
+image: /assets/images/foundershiding.jpeg
 headerImage: true
 tag:
 - no-code
