@@ -11,7 +11,7 @@ star: false
 category: blog
 author: davidpeterson
 description: The power of goals and anti-goals
-hidden: true
+hidden: false
 ---
 
 I've realized that in some cases I find competition with others motivating and inspiring, and in other cases I find it extremely demotivating (and even jealousy-inducing). How could that be?
@@ -30,10 +30,6 @@ Okay, that's a helpful distinction. But how can I get more inspiring motivation 
 
 This where goals and anti-goals come in.
 
-What I realized is that having a clear set of goals and anti-goals can help me control my emotional response to competition.
-
-Whenever I start feeling that jealous-inducing, demotivation coming on, I just need to look at my goals and anti-goals. Is this a goal of mine? If not, should it be? If not, then who cares? Focus on what matters. Play your own game, don't play somebody else's.
-
 ### What's a goal?
 
 A goal is specific enough to be useful, but vague enough to let you figure out how to get there in real time. Think objectives, not tactics.
@@ -46,20 +42,30 @@ Anti-goals are "false idols" (h/t Saurya). They either won't make you happy, or 
 
 This doesn't mean they're necessary *bad*. They could be lots of fun. But they're an "anti-goal" because *focusing* on them isn't a priority. That's the key.
 
-Some goals are two sides of the same coin. If I'm not doing well with "Goal 1" then I'm tempted by "Anti-Goal 1," because it's easy to fall back on. 
+### Using goals and anti-goals to find balance
+
+What I realized is that having a clear set of goals and anti-goals can help me control my emotional response to competition.
+
+Whenever I start feeling that jealous-inducing, demotivation coming on, I just need to look at my goals and anti-goals and ask myself: Is this a goal? If not, should it be? If not, then who cares? Focus on what matters. Play your own game, don't play somebody else's.
+
+I also realized that some goals are two sides of the same coin. In other words, if I'm not doing well with "Goal 1" then I'm tempted by "Anti-Goal 1," because it's easy to fall back on. However, because I haven't been focusing on "Anti-Goal 1", what drives me is often some form of jealousy, rather than any sort of strategic focus. And then I get disappointed in myself for not focusing on "Goal 1." And then the cycle continues.
+
+I'm honestly getting tired just thinking about it.
+
+So, to keep myself honest, I'm posting my current version of goals and anti-goals here. These aren't perfect. They need to be updated. But I'm hoping that they'll help me find balance and clarity.
 
 ### Goals:
 
-(1) Own my career - converge on a path to start my own company and achieve financial freedom. The goal here is all about gaining clarity on the *path* and recognizing that any career is a repeated, infinite game (not a ladder).
-(2) Friends - build deeper, authentic relationships with the people I care about most.
-(3) Health - focus on continual improvement in cycling, running and lightweight strength training.
-(4) World exploration - travel, get out in the world, go to new places and meet new people. Say yes to more things more often.
-(5) Getting to know myself - work on getting better at expressing my own emotions and advocating for my opinions.
+1. **Own my career** - converge on a path to start my own company and achieve financial freedom. The goal here is all about gaining clarity on the *path* and recognizing that any career is a repeated, infinite game (not a ladder).
+2. **Friends** - build deeper, authentic relationships with the people I care about most.
+3. **Fitness** - focus on continual improvement in cycling, running and lightweight strength training. 
+4. **World exploration** - I just moved to London. What?! Take advantage of it. Travel, get out in the world, go to new places and meet new people. Say yes to more things more often.
+5. **Getting to know myself** - work on getting better at expressing my own emotions and advocating for my opinions.
 
-Anti-goals:
-(1) Near-term career advancement - this is *the* classic false idol for me. David from the future, read this: Don't get caught up in near-term career advancement. It's a local maxima. Don’t let it distract from the global maxima (see Goal 1).
-(2) Meetings for the sake of meeting - Too often, I open my calendar to see meetings that aren't 
-(3) BREAD - I love baking, but I don't need to prioritize it. 
+### Anti-goals:
+1. **Near-term career advancement** - this is *the* classic false idol for me. David from the future, read this: Don't get caught up in near-term career advancement. It's a local maxima. Don’t let it distract from the global maxima (see Goal 1).
+2. **Meetings for the sake of meeting** - Too often, I open my calendar to see meetings that aren't helping me achieve any of the above goals. They end up just completely draining me of the energy I need *to* achieve those goals.
+3. **BREAD** - I love baking, but I don't need to prioritize it. Continual improvement isn't the name of the game right now. Just enjoy it for what it is.
 
 
 
