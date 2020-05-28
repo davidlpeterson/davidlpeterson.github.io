@@ -14,14 +14,14 @@ description: How do I want to use this space?
 
 ## How do I want to use this space?
 
-I fully expect no one to ever read this. So rather than writing for an audience, I’d like to write for myself.
+I fully expect no one to ever read this. (But if you've somehow found this post...hello!!) So rather than writing for an audience, I’d like to write for myself.
 
-I’ve found that writing is the best way for me to learn about something new. Writing forces you to “map” the space in detail, to grapple with its curves and nuances, in a way that a lively conversation doesn’t. So, my goal, at least for the time being, will be that of a cartographer.
+I’ve found that writing is the best way for me to learn about something new. Writing forces me to “map” a new space in detail, to grapple with its curves and nuances, in a way that a lively conversation doesn’t. So, my goal, at least for the time being, will be that of a cartographer.
 
 To start, I put together a list of things I’d like to learn more about. I tried to be prolific rather than measured, so not all of these are well-scoped topics of interest. But they are each ideas I find myself coming back to again and again.
 I’ll keep adding to this list over time, and I’ll also update this list with everything I’ve written or learned about a topic.
 
-##What am I curious about?
+## What am I curious about?
 
 * “File cabinet businesses”: Businesses that run “out of a file cabinet.” Not necessarily small businesses (in fact, bigger is more interesting to me), but businesses that haven’t seen the need to transition fully to software. This feels like such a big blind spot for me. It’s easy, when you work in tech to assume that all businesses are like yours…living off a laptop, pushing more and more processes to the cloud by default. But of course this isn’t the case. I want to broaden my perspective here.
 * Finding order in chaos: There are things that we think of as being “the way they ought to be” and the result of thoughtful consideration but are actually just second order effects of other constraints (e.g. from my friend Saurya - Twitter limited tweets to 140 characters because they were sent in by SMS, and SMS was limited to 140 characters because SMS messages were sent via cell towers on the back of calls and there wasn’t enough space for longer messages). I find these stories fascinating. There’s chaos in the world, and it’s comforting to find order in it…to assume that decisions were made carefully. But how often are we all just kind of rolling with the punches? What are all the examples of this?
