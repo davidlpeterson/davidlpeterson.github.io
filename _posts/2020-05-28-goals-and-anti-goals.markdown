@@ -66,7 +66,3 @@ So, to keep myself honest, I'm posting my current version of goals and anti-goal
 1. **Near-term career advancement** - this is *the* classic false idol for me. David from the future, read this: Don't get caught up in near-term career advancement. It's a local maxima. Don’t let it distract from the global maxima (see Goal 1).
 2. **Meetings for the sake of meeting** - Too often, I open my calendar to see meetings that aren't helping me achieve any of the above goals. They end up just completely draining me of the energy I need *to* achieve those goals.
 3. **BREAD** - I love baking, but I don't need to prioritize it. Continual improvement isn't the name of the game right now. Just enjoy it for what it is.
-
-
-
-[The Power of Anti-Goals](https://medium.com/@awilkinson/the-power-of-anti-goals-c38f5f46d23c) by Andrew Wilkinson
