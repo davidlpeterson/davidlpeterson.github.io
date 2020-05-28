@@ -15,7 +15,5 @@ You can find me on <a href="https://www.twitter.com/edavidpeterson">Twitter</a> 
 <h2>Favorite posts</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://davidlpeterson.com/founders-hiding/">Founders hiding in plain sight</a></li>
 </ul>
