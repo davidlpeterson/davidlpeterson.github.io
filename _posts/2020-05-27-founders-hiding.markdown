@@ -2,12 +2,12 @@
 title: "Founders hiding in plain sight"
 layout: post
 date: 2020-05-27 09:54
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/foundershiding.jpg
+headerImage: true
 tag:
 - no-code
 - saas
-star: true
+star: false
 category: blog
 author: davidpeterson
 description: No-code tools and a new era of entrepreneurship
