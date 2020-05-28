@@ -1,14 +1,16 @@
 ---
 title: "Founders hiding in plain sight"
 layout: post
-date: 2020-05-27 09:25
+date: 2020-05-27 09:54
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
+- markdown
+- elements
 star: true
 category: blog
 author: davidpeterson
-description: "No-code" tools and a new era of entrepreneurship
+description: No-code tools and a new era of entrepreneurship
 ---
 
 (Also published on Medium [here](https://medium.com/@edavidpeterson/founders-hiding-in-plain-sight-f3335e8b034e).)
