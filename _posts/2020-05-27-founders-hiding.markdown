@@ -5,8 +5,6 @@ date: 2020-05-27 09:25
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- no code
-- saas
 star: true
 category: blog
 author: davidpeterson
