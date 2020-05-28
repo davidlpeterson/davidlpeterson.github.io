@@ -7,6 +7,7 @@ headerImage: false
 tag:
 - no code
 - saas
+start: true
 category: blog
 author: davidpeterson
 description: "No-code" tools and a new era of entrepreneurship
