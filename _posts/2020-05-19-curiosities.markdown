@@ -1,5 +1,5 @@
 ---
-title: "Some curiosities to kick this thing off"
+title: "Some questions to kick this thing off"
 layout: post
 date: 2020-05-19 09:54
 image: /assets/images/foundershiding.jpg
